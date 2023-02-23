@@ -267,7 +267,6 @@ while s != 0:
     pygame.display.flip()
     clock.tick(FPS)
    
-    
-
+print('popa')
 
    
